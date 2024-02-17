@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/robobusservice/static/css/main.0e2be421.css",
-    "main.js": "/robobusservice/static/js/main.d587dd35.js",
+    "main.css": "/robobusservice/static/css/main.e0474153.css",
+    "main.js": "/robobusservice/static/js/main.09b1c4fd.js",
     "static/js/592.efa4c486.chunk.js": "/robobusservice/static/js/592.efa4c486.chunk.js",
     "static/media/logo.png": "/robobusservice/static/media/logo.f9c3c3b3206222b218ae.png",
     "service-worker.js": "/robobusservice/service-worker.js",
     "index.html": "/robobusservice/index.html",
-    "main.0e2be421.css.map": "/robobusservice/static/css/main.0e2be421.css.map",
-    "main.d587dd35.js.map": "/robobusservice/static/js/main.d587dd35.js.map",
+    "main.e0474153.css.map": "/robobusservice/static/css/main.e0474153.css.map",
+    "main.09b1c4fd.js.map": "/robobusservice/static/js/main.09b1c4fd.js.map",
     "592.efa4c486.chunk.js.map": "/robobusservice/static/js/592.efa4c486.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e2be421.css",
-    "static/js/main.d587dd35.js"
+    "static/css/main.e0474153.css",
+    "static/js/main.09b1c4fd.js"
   ]
 }
