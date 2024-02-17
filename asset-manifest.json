@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/robobusservice/static/css/main.0e2be421.css",
-    "main.js": "/robobusservice/static/js/main.472991fc.js",
+    "main.js": "/robobusservice/static/js/main.888fda1a.js",
     "static/js/592.efa4c486.chunk.js": "/robobusservice/static/js/592.efa4c486.chunk.js",
     "static/media/logo.png": "/robobusservice/static/media/logo.f9c3c3b3206222b218ae.png",
     "service-worker.js": "/robobusservice/service-worker.js",
     "index.html": "/robobusservice/index.html",
     "main.0e2be421.css.map": "/robobusservice/static/css/main.0e2be421.css.map",
-    "main.472991fc.js.map": "/robobusservice/static/js/main.472991fc.js.map",
+    "main.888fda1a.js.map": "/robobusservice/static/js/main.888fda1a.js.map",
     "592.efa4c486.chunk.js.map": "/robobusservice/static/js/592.efa4c486.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0e2be421.css",
-    "static/js/main.472991fc.js"
+    "static/js/main.888fda1a.js"
   ]
 }
